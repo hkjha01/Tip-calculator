@@ -1,6 +1,6 @@
 # Tip-calculator
 Project 1 Tip calculator
-
+print("welcome to tip calculator")
 a= int(input("enter the bill amount:"))
 b= int(input("Select tip % :"))
 c=(a+a*(b/100))
