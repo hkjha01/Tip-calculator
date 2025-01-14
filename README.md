@@ -1,4 +1,4 @@
-# Tip-calculator
+# Bill-calculator
 Project 1 bill calculator
 print("welcome to tip calculator")
 a= int(input("enter the bill amount:"))
